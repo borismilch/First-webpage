@@ -1,0 +1,26 @@
+@media(max-width:925px){
+    .span{
+        display:none;
+    }
+}
+@media (max-width:725px) {
+    
+}
+@media(max-width:625px){
+    
+    .nav__link{
+        display: none;
+    }
+    .header__links{
+        margin-right: 5%;
+        align-items: center;
+    }
+  
+    .header__logo{
+       margin-left: 30%;
+    }
+    .burger{
+        display: block;
+    }
+    
+}

@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'Conv_BravoRG';
+	src: url('fonts/BravoRG.eot');
+	src: local('☺'), url('fonts/BravoRG.woff') format('woff'), url('fonts/BravoRG.ttf') format('truetype'), url('fonts/BravoRG.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+

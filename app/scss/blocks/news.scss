@@ -1,0 +1,118 @@
+.news {
+    padding-bottom: 40px;
+    &__wrapper {
+        display: grid;
+        grid-template-columns: 1fr 0.7fr;
+        grid-column-gap: 50px;
+        @media (max-width:600px) {
+            display: block;
+           
+            
+        }
+      
+    }
+}
+
+.news-item {
+    text-align: left;
+    display: flex;
+    padding: 15px;
+    flex-direction: column;
+    @media (max-width:600px) {
+        text-align: center;
+        
+        
+    }
+    &__subscribe{
+        display: flex;
+        flex-direction: row;
+        flex: 0 1 50%;
+        align-items: center;
+        margin-right: 30px;
+        @media (max-width:600px) {
+            text-align: center;
+            display: block;
+            margin: 0;
+            
+        }
+    }
+    
+   
+
+    &__title {
+        font-size: 35px;
+        font-family: $PFdin;
+        font-weight: 300;
+        display: flex;
+        @media (max-width:600px) {
+            text-align: center;
+            justify-content: center;
+            
+        }
+        align-items: center;
+        img{
+            float: left;
+            margin-right: 15px;
+        }
+    }
+
+    &__content {
+        line-height: 1.6;
+    }
+
+    &__date {
+        font-size: 12px;
+        font-family: "PT Sans";
+        color: $gold;
+
+    }
+    &__column{
+        margin: 15px 0px;
+    }
+    &__text {
+        font-size: 15px;
+        font-weight: 400;
+        &::first-line{
+            font-weight: bold;
+            text-decoration: underline;
+         
+        }
+    }
+}
+.sub__text{
+    font-weight: 400 !important;
+    text-decoration: none !important;
+
+}
+.forms{
+    display: flex;
+    height: 54px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border: 3px solid $gold;
+    flex-shrink: 2;
+    position: relative;
+    max-width: 80%;
+
+}
+.input{
+    display: inline-block;
+    background-color: white;
+    padding: 18px 186px 14px 26px;
+    border: 0;
+    position: relative;
+    width: 100%;
+    color: $gold;
+    
+    
+}
+.form__button{
+    border: 0;
+    background-color: white;
+    color: $gold;
+    width: 10%;
+    display:block;
+    float:right;
+    transform: translate(-10px, -33px);
+    border-left: 1px solid $gold;
+}

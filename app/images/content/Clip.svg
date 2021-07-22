@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="73.14" viewBox="0 0 75 73.14">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(985 1606)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.5" stop-color="#9e9e9e"/>
+      <stop offset="0.502" stop-color="#d0d0d0"/>
+      <stop offset="1" stop-color="#9e9e9e"/>
+    </linearGradient>
+  </defs>
+  <g id="Clip" transform="translate(-985 -1606)" clip-path="url(#clip-path)">
+    <g id="Shape_35" data-name="Shape 35">
+      <path id="Shape_35-2" data-name="Shape 35" d="M1034.117,1627.006h-24.244L1003,1636.8l19,26.2,19-26.2Zm-15.18,8.289,3.061-4.133,3.06,4.133Zm6.68,2.98L1022,1653.562l-3.619-15.288Zm-.817-8.289h5.808l-2.9,3.922Zm-8.506,3.922-2.906-3.919h5.808Zm-2.646,1.387h-5.991l2.916-4.152Zm1.714,2.98,3.708,15.666-11.359-15.666Zm13.273,0h7.642l-11.348,15.654Zm1.712-2.98,3.073-4.149,2.913,4.149Z" fill="#bb9c66"/>
+      <path id="Gradient_Overlay" data-name="Gradient Overlay" d="M1034.117,1627.006h-24.244L1003,1636.8l19,26.2,19-26.2Zm-15.18,8.289,3.061-4.133,3.06,4.133Zm6.68,2.98L1022,1653.562l-3.619-15.288Zm-.817-8.289h5.808l-2.9,3.922Zm-8.506,3.922-2.906-3.919h5.808Zm-2.646,1.387h-5.991l2.916-4.152Zm1.714,2.98,3.708,15.666-11.359-15.666Zm13.273,0h7.642l-11.348,15.654Zm1.712-2.98,3.073-4.149,2.913,4.149Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="401" height="25.013" viewBox="0 0 401 25.013">
+  <defs>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-546 -720)">
+    <g id="Shape_8" data-name="Shape 8" transform="translate(546 732.18)" fill="none" stroke="#bb9c66" stroke-width="2">
+      <rect id="fill" width="335" height="1.01" stroke="none"/>
+      <path d="M0,0.009999990463256836h335M334,0v1.0099999904632568M335,1h-335M1,1.0099999904632568v-1.0099999904632568" fill="none" clip-path="url(#clip)"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" fill="none">
+      <path d="M934.681,720l-12.319,12.506,12.319,12.506L947,732.506Z" stroke="none"/>
+      <path d="M 934.6810913085938 721.425048828125 L 923.7658081054688 732.5064697265625 L 934.6810913085938 743.5875854492188 L 945.5963745117188 732.5064697265625 L 934.6810913085938 721.425048828125 M 934.6810913085938 720 L 947 732.5064697265625 L 934.6810913085938 745.0125732421875 L 922.3621826171875 732.5064697265625 L 934.6810913085938 720 Z" stroke="none" fill="#bb9c66"/>
+    </g>
+    <g id="Rectangle_19-2" data-name="Rectangle 19" fill="none">
+      <path d="M909.5,725.076l-7.5,7.618,7.5,7.618,7.5-7.618Z" stroke="none"/>
+      <path d="M 909.4959716796875 726.5012817382813 L 903.3958129882813 732.6942749023438 L 909.4959716796875 738.8875732421875 L 915.59619140625 732.6942749023438 L 909.4959716796875 726.5012817382813 M 909.4959716796875 725.0762939453125 L 916.9998779296875 732.6942749023438 L 909.4959716796875 740.3126220703125 L 901.9921875 732.6942749023438 L 909.4959716796875 725.0762939453125 Z" stroke="none" fill="#bb9c66"/>
+    </g>
+    <g id="Ellipse_22" data-name="Ellipse 22" transform="translate(888 728.12)" fill="none" stroke="#bb9c66" stroke-width="1">
+      <ellipse cx="4.5" cy="4.57" rx="4.5" ry="4.57" stroke="none"/>
+      <ellipse cx="4.5" cy="4.57" rx="4" ry="4.07" fill="none"/>
+    </g>
+  </g>
+</svg>

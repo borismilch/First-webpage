@@ -1,0 +1,386 @@
+
+
+.lots-head {
+	text-align: center;
+	margin-top: 6%;
+
+		&__subtitle {
+	
+			margin-bottom: 1%;
+		}
+
+		&__title {
+	
+		
+		}
+}
+.title{
+	font-size: 35px;
+	font-family: $PFdin;
+	font-weight: 400;
+}
+.subtitle{
+	font-family: $ceremonius;
+	color: $gold;
+	font-size: 2.9rem;
+}
+.lots-decor {
+	margin-bottom: 5%;
+}
+.decor{
+	margin: 0px 25px;
+	@media (max-width:500px) {
+		margin: 0 10px;
+		
+	}
+}
+.decor-elem {
+	max-width: 34%;
+}
+
+.decor2 {
+	transform: rotate(180deg);
+}
+.lots-body {
+
+		&__wrapper {
+			display: flex;
+             flex: 0 0 33.333%;
+			justify-items: center;
+			
+		}
+
+		&__item {
+			display: inline-flex;
+			flex-direction: column;
+			text-align: center;
+			justify-content: center;
+	
+		
+		}
+
+		&__img {
+			border: $gold 3px solid;
+			display: inline-block;
+			z-index: -2;
+			
+		}
+
+		&__date {
+			z-index:10; 
+			transform: translate(39%, -35px);
+		
+		}
+		&__time {
+			font-size: 18px;
+			font-family: $PFdin;
+			font-weight: 400;
+		}
+
+		&__title {
+			margin-top: 12%;
+			font-family: $PFdin;
+			font-size: 1.5rem;
+			text-align: center;
+			height: 90px;
+		}
+
+		&__inform {
+			margin-top: 5%;
+			@media (max-width:500px) {
+				margin: 0 65px;
+				
+			}
+			@media (max-width:370px) {
+				margin: 0 30px;
+				
+			}
+		}
+
+		&__views {
+		}
+
+		&__bet {
+			position: relative;
+			transform: translate(-40px, -25px);
+		}
+
+		&__btn {
+			font-size: 1.5rem;
+			font-weight: 400;
+			font-family: $PFdin;
+			margin-top:11% ;
+			white-space: nowrap;
+			&:hover{
+				background-color: $gold;
+				color: white;
+				font-size: 1.7rem;
+			}
+		}
+}
+.dd{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+
+	transform: rotate(-45deg);
+
+}
+.bets-text{
+	transform: rotate(-45deg);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	text-align: center;
+}
+.lots-body__views{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.views-wrapper{
+	display: flex;
+	flex-direction: column;
+border-bottom:$gold 2px solid;
+padding-bottom: 7px;
+align-items: center;
+justify-content: center;
+width: 28px;
+}
+.views-wrapper img{
+	margin-bottom: 5px;
+}
+.lot-icon{
+	width: 25px*0.72;
+	height: 25px*0.72;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 6px;
+
+	img{
+		position: relative;
+		z-index: 2;
+		transform: translateY(3px);
+	}
+&:after{
+	content: "";
+	width: 100%;
+	height: 100%;
+	transform: rotate(45deg);
+	position: absolute;
+	background-color: black;
+}
+}
+.wphone-loto{
+	margin-left: 10px;
+
+}
+.ff{
+	position: relative;
+	
+}
+.dd img{
+ margin-bottom: 7px;
+}
+
+.wphone-clean {
+	border: 0;
+	z-index: -1;
+	
+}
+.wphone__lots{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+}
+.ttx {
+	font-size: 14px;
+	font-weight: 400;
+	font-family: "PT Sans";
+	
+	display: flex;
+}
+.bets-prev {
+
+	font-size: 14px;
+	font-weight: 400;
+	font-family: "PT Sans";
+	white-space: nowrap;
+	transform: translate(-25%, -220%);
+}
+.betas-cost  {
+	font-size: 3.57rem;
+	white-space: nowrap;
+	font-weight: 500;
+	font-family: $bravo;
+	position: absolute;
+	transform: translate(-25%, -15%) ;
+	
+}
+.swiper-wrapper{
+	align-items: stretch;
+}
+.lots-body {
+
+	&__controller {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		margin-top: 6%;
+		align-items: center;
+		position: relative;
+	}
+}
+.lost-arrow {
+
+	&__prew, &__next{
+		height:4px;
+		background-color: $gold;
+		min-width: 107px;
+
+	}
+	&__prew{
+		&::before{
+			content: "";
+			position: absolute;
+			width: 35px;
+			transform: rotate(45deg);
+			background-color: $gold;
+			height: 2px;
+			bottom: 35px;
+
+		}
+		&::after{
+			content: "";
+			position: absolute;
+			width: 35px;
+			transform: rotate(-45deg);
+			background-color: $gold;
+			height: 2px;
+			top: 35px;
+
+		}
+	}
+	&__prew span{
+		&::before{
+			content: "";
+			position: absolute;
+			width: 35px;
+			transform: rotate(45deg);
+			background-color: $gold;
+			height: 2px;
+			bottom: 35px;
+
+
+		}
+		&::after{
+			content: "";
+			position: absolute;
+			width: 35px;
+			transform: rotate(-45deg);
+			background-color: $gold;
+			height: 2px;
+			top: 35px;
+			left: 3%;
+		}
+		&::before{
+			left: 3%;
+		}
+	}
+	&__next{
+		&::before{
+			content: "";
+			position: absolute;
+			width: 35px;
+			transform: rotate(-45deg);
+			background-color: $gold;
+			height: 2px;
+			bottom: 35px;
+			right: 0;
+
+		}
+		&::after{
+			content: "";
+			position: absolute;
+			width: 35px;
+			transform: rotate(45deg);
+			background-color: $gold;
+			height: 2px;
+			top: 35px;
+			right: 0;
+
+		}
+	}
+	&__next span{
+		&::before{
+			content: "";
+			position: absolute;
+			width: 35px;
+			transform: rotate(-45deg);
+			background-color: $gold;
+			height: 2px;
+			bottom: 35px;
+			right: 3%;
+
+
+		}
+		&::after{
+			content: "";
+			position: absolute;
+			width: 35px;
+			transform: rotate(45deg);
+			background-color: $gold;
+			height: 2px;
+			top: 35px;
+			right: 3%;
+		}
+		
+	}
+	
+	&__center {
+		font-family: $PFdin;
+		font-size: 1.4rem;
+		max-width: 100px;
+		max-height: auto;
+		border-radius: 50%;
+		border: 4px $gold solid;
+		text-align: center;
+		line-height: 90px;
+		align-items: center;
+		transition-duration: 0.2s;
+		margin: 0 20px;
+		&:hover{
+			color: white;
+			background-color: $gold;
+		}	
+		@media (max-width:500px) {
+		font-size: 1rem;
+		
+			
+		}
+	}
+
+
+}
+.arrows__wrapper{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	
+		align-items: center;
+}
+.swiper {
+
+	&__button-prev {
+	}
+
+	&__button-next {
+	}
+}

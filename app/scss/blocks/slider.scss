@@ -1,0 +1,56 @@
+.backg__slider {
+    position: absolute;
+    left: 46%;
+    z-index: 10;
+    transform: translate(0, -100%);
+    @media(max-width:400px){
+        left: 40%;
+    }
+        
+    
+    
+}
+.wphone{
+    position: absolute;
+    min-width: 60px;
+    height: 60px;
+    border: $gold 2px solid;
+    background-color: white;
+    transform: rotate(45deg);
+    z-index: -1;
+  ;
+}
+.slider__arrow-prev {
+    transition-duration: 0.2s;
+    &:hover{
+        transform: scale(1.2);
+    }
+
+}
+.slider__arrow{
+   
+ 
+}
+.slider__decor {
+   
+}
+
+.slider__arrow-next {
+    transition-duration: 0.2s;
+    &:hover{
+        transform: scale(1.2);
+        color: $golden;
+    }
+
+}
+.slider__elem{
+    display: inline-block;
+    z-index: 10;
+    
+  
+}
+.slider__items{
+    transform: translate(-6px, 35%);
+}
+
+

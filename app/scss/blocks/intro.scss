@@ -1,0 +1,102 @@
+.intro {
+   width: 100%;
+    padding-bottom: 85px;
+    margin-top: 65px;
+    padding-top: 50px;
+    position: relative;
+    display: block;
+    background: url(../images/Clip.png) no-repeat center ;
+    object-fit: cover;
+    background-position-x: 60%;
+    text-align: center;
+    background-size: auto  100%;
+}
+
+.small-phone{
+    min-height: 100%;
+    display: block;
+    opacity: .6;
+    visibility: visible;
+    min-width: 100%;
+    margin-top: -50px;
+    background-color: rgba(12, 9, 9, 0.749);
+    
+    position: absolute;
+  
+
+    transition-duration: 0.2s;
+}
+ 
+
+.intro__content {
+ display: flex;
+ width: 100%;
+
+ top: 23%;
+justify-content: center;
+z-index: 120;
+}
+.intro__text {
+    color: rgb(241, 235, 222);
+   justify-self: center;
+    max-width: 700px;
+   font-size: 0.85rem;
+    z-index: 120;
+    opacity: 0.9;
+    @media(min-width:925px){
+        margin-left: 100px;
+    }
+}
+.intro__subtitle {
+    color: $gold;
+    font-family: $ceremonius;
+    font-size: 30px;
+}
+.intro__title {
+    font-size: 3rem;
+    width: 120%;
+    margin-left: -8%;
+    margin-bottom: 4%;
+    font-family: $PFdin;
+    @media(max-width:625px){
+        font-size: 2rem;
+        width: 100%;
+        margin-left: 0;
+    }
+}
+.into__desc {
+    line-height: 170%;
+    font-family: $PFdin;
+    @media(max-width:625px){
+        line-height: 120%;
+        font-size: 0.8rem;
+    }
+}
+.btn1 {
+    border: 3px $gold solid;
+    display: inline-block;
+    
+    padding: 6px 45px;
+  
+    cursor: pointer;
+    font-family: $harbell;
+ 
+    transition-duration:  0.3s;
+    &:hover{
+       background-color: $black;
+    
+       
+    }
+}
+.intro__btn{
+
+    margin-top: 5%;
+    background: rgb(250,255,255);
+    background: linear-gradient(0deg, rgba(250,255,255,0.404096672848827) 0%, rgba(23,23,22,0.5553571770505077) 100%);
+
+
+
+
+
+}
+

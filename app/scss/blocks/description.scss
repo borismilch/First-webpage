@@ -1,0 +1,77 @@
+.description {
+    margin-top: 4%;
+    &__content {
+       
+    }
+
+    &__text {
+        background-image: url(../images/content/Shape83.jpg) ;
+        padding-left: 90px;
+        background-position-y: 20% ;
+        background-repeat: repeat-y;
+        float: right;
+        text-align: left;
+        font-family: "PT Sans";
+        font-size: 1rem;
+        line-height: 200%;
+        font-weight: 300;
+        max-width: 860px;
+    }
+}
+.ll{
+    &::before{
+    content: "";
+    width: 22px;
+    height: 2px;
+    background-color: $gold;
+    transform: rotate(45deg) translate(18px,5px);
+    transition-duration: 0.3s;
+    position: absolute;
+    }
+    &::after{
+        content: "";
+        width: 22px;
+        height: 2px;
+        background-color: $gold;
+        transform: rotate(-45deg) translate(5px, 29px);
+        transition-duration: 0.3s;
+        position: absolute;
+    }
+    &.active::before{
+        transform: rotate(-45deg) translate(8px,24px);
+        
+    }
+    &.active::after{
+        transform: rotate(45deg) translate(35px, -18px);
+        
+    }
+}
+.description {
+    
+
+    &__lorem {
+        margin-bottom: 25px;
+    }
+
+    &__trigger {
+       
+    }
+}
+.descriotion-item {
+
+    &__content {
+        position: absolute;
+        opacity: 0;
+        transform: translateY(-50%);
+        transition-duration: 0.45s;
+        visibility: hidden;
+        &.active{
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0%);
+            position: relative;
+        }
+
+    }
+
+}

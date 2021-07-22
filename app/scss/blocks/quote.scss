@@ -1,0 +1,123 @@
+.quote-body {
+ 
+    &__content {
+    display: flex;
+    align-items: center;
+    opacity: 0 !important;
+        transition-duration: 0.3s;
+        @media (max-width:780px) {
+            display: block;
+        }
+        &.swiper-slide-active{
+            opacity: 1 !important;
+        }
+     
+    }
+   
+
+    &__img {
+       flex: 350px/950px* 100%;
+       display: flex;
+      
+       justify-content: center;
+       align-items: center;
+        padding: 0 30px;
+        img{
+            max-width: 100%;
+        }
+    }
+
+    &__text {
+        text-align: left;
+        flex: 0 1 515px;
+        display: flex;
+        flex: 1 1 auto;
+        flex-direction: column;
+        @media (max-width:780px) {
+          text-align: center;
+          margin: 0 20px;
+        }
+      
+ 
+    }
+
+    &__quote {
+        font-size: 25px;
+        font-family: 'PT Sans';
+        font-weight: 400;
+        font-style: italic;
+    
+        
+    }
+
+    &__author, &__date {
+        font-size: 15px;
+        font-family: 'PT Sans';
+        font-weight: 400;
+
+    }
+
+}
+.quotes {
+
+    &__controller {
+        display: flex;
+         flex: 0 1 auto;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    &__decor1 {
+
+        &::before{
+            content: "";
+    width: 12%; 
+            height: 1px;
+            position: absolute;
+            background-color: $gold;
+            left: 29%;
+           z-index: 10; 
+        }
+        &::after{
+           
+            content: "";
+            left: 42%;
+            top: 40%;
+            width: 12px;
+            height: 12px;
+            border: 1px solid $gold;
+            border-radius: 50%;
+            position: absolute;
+        }
+    }
+
+    &__button {
+        padding: 0 30px;
+        z-index: 10;
+    }
+
+    &__decor2 {
+        
+        &::before{
+            content: "";
+  width: 12%; 
+            height: 1px;
+            position: absolute;
+            background-color: $gold;
+            right: 29%;
+           z-index: 10; 
+        }
+        &::after{
+           
+            content: "";
+            right: 42%;
+            top: 40%;
+            width: 12px;
+            height: 12px;
+            border: 1px solid $gold;
+            border-radius: 50%;
+            position: absolute;
+        }
+    }
+}

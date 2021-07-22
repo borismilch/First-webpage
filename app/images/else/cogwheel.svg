@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220.232" height="226.116" viewBox="0 0 220.232 226.116">
+  <defs>
+    <filter id="Rectangle_27" x="0" y="5.295" width="220.232" height="220.822" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-color="#12171b"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_27-2" x="0" y="0" width="220.232" height="220.822" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-2"/>
+      <feFlood flood-color="#12171b"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_27-3" x="0" y="5.295" width="220.232" height="220.822" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-3"/>
+      <feFlood flood-color="#12171b"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_27)">
+        <path id="Rectangle_27-4" data-name="Rectangle 27" d="M1026.935,3421.117h-12.047l-2.8-5.225a56.627,56.627,0,0,1-12.48-3.436l-4.542,3.326-10.433-6.052.147-6.064a57.878,57.878,0,0,1-8.8-8.984l-5.85.471-6.023-10.482.337-5.917,6.174,7.766a57.165,57.165,0,0,1-6.305-18.938l-5.516-2.823v-12.1l5.642-2.887a57.442,57.442,0,0,1,3.1-11.465l-3.435-5.559.337-5.431,11.851-4.231a57.861,57.861,0,0,1,8.508-8.6l-.165-6.8,10.433-6.052,5.2,3.811a56.764,56.764,0,0,1,11.382-3.1l3.232-6.042h12.047l2.5,5.927a56.791,56.791,0,0,1,11.683,3.054l5.639-3.645,10.433,6.052-.8,6.289a57.757,57.757,0,0,1,9.4,9.435l11.6,3.906.337,5.431-3.676,4.953a57.4,57.4,0,0,1,3.4,12.407l5.592,2.552v12.1l-5.472,2.5a57.245,57.245,0,0,1-5.163,16.944l4.988-6.2.337,6.673-6.023,10.482-5.888-.427a57.736,57.736,0,0,1-9.334,9.4l.714,5.61-10.433,6.052-4.917-3.178a56.694,56.694,0,0,1-12.74,3.382l-2.161,5.13Zm-6.026-80.947a18.91,18.91,0,1,0,18.821,18.91A18.886,18.886,0,0,0,1020.91,3340.17Z" fill="#67512c"/>
+      </g>
+    </clipPath>
+    <filter id="Shape_61" x="-2.795" y="61.999" width="224" height="169.021" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-4"/>
+      <feFlood flood-color="#12171b"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_27-5" x="0" y="0" width="220.232" height="220.822" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-5"/>
+      <feFlood flood-color="#12171b"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_27-2)">
+        <path id="Rectangle_27-6" data-name="Rectangle 27" d="M1026.935,3415.822h-12.047l-2.793-5.22a56.715,56.715,0,0,1-12.488-3.439l-4.537,3.324-10.433-6.052.147-6.059a57.785,57.785,0,0,1-8.808-8.989l-5.846.471-6.023-10.482,3.258-5.273a57.455,57.455,0,0,1-3.054-11.816l-5.515-2.823v-12.1l5.643-2.889a57.41,57.41,0,0,1,3.1-11.461l-3.437-5.562,6.023-10.482,6.415.517a57.826,57.826,0,0,1,8.258-8.291l-.165-6.8,10.433-6.052,5.209,3.815a56.694,56.694,0,0,1,11.373-3.1l3.235-6.049h12.047l2.5,5.934a56.773,56.773,0,0,1,11.674,3.05l5.646-3.648,10.433,6.052-.8,6.293a57.832,57.832,0,0,1,8.851,8.753l6.458-.469,6.023,10.482-3.677,4.955a57.42,57.42,0,0,1,3.4,12.4l5.593,2.553v12.1l-5.471,2.5a57.432,57.432,0,0,1-3.323,12.723l3.483,4.692-6.023,10.482-5.883-.427a57.8,57.8,0,0,1-9.338,9.4l.713,5.6-10.433,6.053-4.912-3.176a56.746,56.746,0,0,1-12.748,3.385l-2.158,5.125Zm-6.026-79.293a18.911,18.911,0,1,0,18.821,18.911A18.887,18.887,0,0,0,1020.91,3336.53Z" fill="#bb9c66"/>
+      </g>
+    </clipPath>
+    <filter id="Ellipse_47" x="61.165" y="44.83" width="98.72" height="99.82" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-color="#dfd0b2" flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_28" x="-19.745" y="62.59" width="260.55" height="175.06" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-7"/>
+      <feFlood flood-color="#12171b"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_46" x="24.685" y="-17.301" width="170.04" height="170.12" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-8"/>
+      <feFlood flood-color="#12171b"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_45" x="72.465" y="55.79" width="75.3" height="77.64" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-9"/>
+      <feFlood flood-color="#c7b088" flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_27-7" x="0.823" y="2.47" width="217.764" height="162.896" filterUnits="userSpaceOnUse">
+      <feOffset dy="18" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-10"/>
+      <feFlood flood-color="#12171b"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Shape_85" x="75.205" y="61" width="68.999" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-11"/>
+      <feFlood flood-color="#fff" flood-opacity="0.8"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="cogwheel" transform="translate(-910.795 -3261)">
+    <g id="cogwheel-2" data-name="cogwheel">
+      <g id="cogwheel-3" data-name="cogwheel">
+        <g id="Rectangle_27-8" data-name="Rectangle 27">
+          <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Rectangle_27-3)">
+            <path id="Rectangle_27-9" data-name="Rectangle 27" d="M1026.935,3421.117h-12.047l-2.8-5.225a56.627,56.627,0,0,1-12.48-3.436l-4.542,3.326-10.433-6.052.147-6.064a57.878,57.878,0,0,1-8.8-8.984l-5.85.471-6.023-10.482.337-5.917,6.174,7.766a57.165,57.165,0,0,1-6.305-18.938l-5.516-2.823v-12.1l5.642-2.887a57.442,57.442,0,0,1,3.1-11.465l-3.435-5.559.337-5.431,11.851-4.231a57.861,57.861,0,0,1,8.508-8.6l-.165-6.8,10.433-6.052,5.2,3.811a56.764,56.764,0,0,1,11.382-3.1l3.232-6.042h12.047l2.5,5.927a56.791,56.791,0,0,1,11.683,3.054l5.639-3.645,10.433,6.052-.8,6.289a57.757,57.757,0,0,1,9.4,9.435l11.6,3.906.337,5.431-3.676,4.953a57.4,57.4,0,0,1,3.4,12.407l5.592,2.552v12.1l-5.472,2.5a57.245,57.245,0,0,1-5.163,16.944l4.988-6.2.337,6.673-6.023,10.482-5.888-.427a57.736,57.736,0,0,1-9.334,9.4l.714,5.61-10.433,6.052-4.917-3.178a56.694,56.694,0,0,1-12.74,3.382l-2.161,5.13Zm-6.026-80.947a18.91,18.91,0,1,0,18.821,18.91A18.886,18.886,0,0,0,1020.91,3340.17Z" transform="translate(-910.8 -3261)" fill="#67512c"/>
+          </g>
+          <g id="Clip" clip-path="url(#clip-path)">
+            <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Shape_61)">
+              <path id="Shape_61-2" data-name="Shape 61" d="M1015,3426c-.249-.046,2-19,2-19s9.87,1.071,10,2,1,17,1,17-5.667.02-9.519.02C1016.555,3426.02,1015.083,3426.015,1015,3426Zm27-8-1-15,5-1s2.326,22.937,2,23h0C1047.623,3425,1042,3418,1042,3418Zm-47-15s3.849-2.96,4-2,0,17,0,17l-4,7Zm69-17,7-2,2,19-6,1Zm-94-3,6-1v19l-6,3Zm-9.893-10.96A9.186,9.186,0,0,0,959,3372c-.471.055-3-19-3-19l10,4s-3.477,14.775-4,15a2.292,2.292,0,0,1-.77.088C960.883,3372.088,960.479,3372.064,960.107,3372.04ZM1078,3371l-3-13,7-4,2,18Z" transform="translate(-910.8 -3261)" fill="#43381d"/>
+            </g>
+          </g>
+        </g>
+        <g id="Rectangle_27-10" data-name="Rectangle 27">
+          <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Rectangle_27-5)">
+            <path id="Rectangle_27-11" data-name="Rectangle 27" d="M1026.935,3415.822h-12.047l-2.793-5.22a56.715,56.715,0,0,1-12.488-3.439l-4.537,3.324-10.433-6.052.147-6.059a57.785,57.785,0,0,1-8.808-8.989l-5.846.471-6.023-10.482,3.258-5.273a57.455,57.455,0,0,1-3.054-11.816l-5.515-2.823v-12.1l5.643-2.889a57.41,57.41,0,0,1,3.1-11.461l-3.437-5.562,6.023-10.482,6.415.517a57.826,57.826,0,0,1,8.258-8.291l-.165-6.8,10.433-6.052,5.209,3.815a56.694,56.694,0,0,1,11.373-3.1l3.235-6.049h12.047l2.5,5.934a56.773,56.773,0,0,1,11.674,3.05l5.646-3.648,10.433,6.052-.8,6.293a57.832,57.832,0,0,1,8.851,8.753l6.458-.469,6.023,10.482-3.677,4.955a57.42,57.42,0,0,1,3.4,12.4l5.593,2.553v12.1l-5.471,2.5a57.432,57.432,0,0,1-3.323,12.723l3.483,4.692-6.023,10.482-5.883-.427a57.8,57.8,0,0,1-9.338,9.4l.713,5.6-10.433,6.053-4.912-3.176a56.746,56.746,0,0,1-12.748,3.385l-2.158,5.125Zm-6.026-79.293a18.911,18.911,0,1,0,18.821,18.911A18.887,18.887,0,0,0,1020.91,3336.53Z" transform="translate(-910.8 -3261)" fill="#bb9c66"/>
+          </g>
+          <g id="Clip-2" data-name="Clip" clip-path="url(#clip-path-2)">
+            <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Ellipse_47)">
+              <g id="Ellipse_47-2" data-name="Ellipse 47" transform="translate(61.16 44.83)" fill="none" stroke="#bb9c66" stroke-width="3">
+                <ellipse cx="49.36" cy="49.41" rx="49.36" ry="49.41" stroke="none"/>
+                <ellipse cx="49.36" cy="49.41" rx="47.86" ry="47.91" fill="none"/>
+              </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Rectangle_28)">
+              <rect id="Rectangle_28-2" data-name="Rectangle 28" width="164.55" height="79.06" transform="translate(28.25 92.59)" fill="#806330"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Ellipse_46)">
+              <ellipse id="Ellipse_46-2" data-name="Ellipse 46" cx="37.02" cy="37.06" rx="37.02" ry="37.06" transform="translate(72.68 12.7)" fill="#dec191"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Ellipse_45)">
+              <ellipse id="Ellipse_45-2" data-name="Ellipse 45" cx="37.65" cy="37.82" rx="37.65" ry="37.82" transform="translate(72.46 55.79)" fill="#e8e8e8"/>
+            </g>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Rectangle_27-7)" style="mix-blend-mode: soft-light;isolation: isolate">
+          <path id="Rectangle_27-12" data-name="Rectangle 27" d="M1000.5,3360.367h0c-9.671-.658-17.607-1.843-23.587-3.521a39.409,39.409,0,0,1-9.362-3.813,6.254,6.254,0,0,0-2.825-1.1c-.057,0-.113,0-.172.006-2.054.142-3.287,2.149-3.959,3.809a16.85,16.85,0,0,0-.977,3.6v-11.591l5.526-2.779a54.475,54.475,0,0,1,3.047-11.048l-3.368-5.354,5.9-10.1,6.286.5a56.19,56.19,0,0,1,8.095-7.985l-.161-6.555,10.225-5.829,5.109,3.676a56.4,56.4,0,0,1,11.142-2.985l3.173-5.831H1026.4l2.45,5.719a56.435,56.435,0,0,1,11.438,2.936l5.536-3.515,10.226,5.829-.784,6.062a56.18,56.18,0,0,1,8.679,8.432l6.325-.452,5.9,10.1-3.6,4.767a54.614,54.614,0,0,1,3.334,11.959l5.472,2.455v9.438c-.587-4.647-2.2-6.907-4.936-6.907-2.465,0-3.867.913-5.807,2.177a33.618,33.618,0,0,1-8.684,4.25c-5.2,1.725-11.948,2.9-20.621,3.585a23.6,23.6,0,0,0,.547-5.066c0-12.258-9.407-22.23-20.97-22.23s-20.97,9.972-20.97,22.23a23.59,23.59,0,0,0,.56,5.126Z" transform="translate(-910.8 -3261)" fill="#eae8e5" opacity="0.38"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 910.8, 3261)" filter="url(#Shape_85)">
+          <path id="Shape_85-2" data-name="Shape 85" d="M1020,3391v-11h1v11Zm6.1-11.672.967-.258,2.847,10.625-.966.259Zm-15.011,10.367,2.847-10.625.966.258-2.847,10.626Zm20.729-12.594.867-.5,5.5,9.527-.867.5Zm-29,9.026,5.5-9.527.866.5-5.5,9.527Zm33.946-12.657.707-.707,7.778,7.778-.706.707Zm-41.012,7.071,7.779-7.778.706.707-7.778,7.778Zm44.851-11.859.5-.866,9.527,5.5-.5.866Zm-50.23,4.634,9.527-5.5.5.866-9.526,5.5Zm52.7-10.252.259-.966,10.625,2.847-.259.966Zm-56.023,1.881,10.625-2.847.258.966-10.625,2.847ZM1044,3357v-1h11v1Zm-58,0v-1h11v1Zm57.069-7.065,10.625-2.848.259.967-10.625,2.847Zm-56.023-1.881.258-.967,10.625,2.848-.258.966Zm53.555-3.737,9.526-5.5.5.866-9.527,5.5Zm-50.23-4.634.5-.866,9.526,5.5-.5.866Zm46.391-.154,7.779-7.778.706.707-7.778,7.779Zm-41.012-7.071.707-.707,7.778,7.778-.706.707Zm36.066,3.441,5.5-9.527.867.5-5.5,9.527Zm-29-9.027.866-.5,5.5,9.527-.866.5Zm23.282,6.8,2.848-10.625.966.258-2.847,10.625Zm-15.011-10.366.966-.258,2.847,10.625-.966.259ZM1020,3333v-11h1v11Z" transform="translate(-910.8 -3261)" fill="#ddd4c3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

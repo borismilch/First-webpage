@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="776" height="673.14" viewBox="0 0 776 673.14">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(634 1606)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.5" stop-color="#9e9e9e"/>
+      <stop offset="0.502" stop-color="#d0d0d0"/>
+      <stop offset="1" stop-color="#9e9e9e"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <ellipse id="Ellipse_20-2" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(985 1606)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <ellipse id="Ellipse_20-3" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(1335 1606)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <ellipse id="Ellipse_20-4" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(634 1907)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <ellipse id="Ellipse_20-5" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(985 1907)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="0.75" y1="155.212" x2="0.75" y2="-80.502" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-6">
+      <ellipse id="Ellipse_20-6" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(1335 1907)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <ellipse id="Ellipse_20-7" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(634 2206)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <ellipse id="Ellipse_20-8" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(985 2206)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <ellipse id="Ellipse_20-9" data-name="Ellipse 20" cx="37.5" cy="36.57" rx="37.5" ry="36.57" transform="translate(1335 2206)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="icons" transform="translate(-634 -1606)">
+    <g id="ROW1">
+      <g id="icon1" transform="translate(635 1606)">
+        <g id="Ellipse_20-10" data-name="Ellipse 20" transform="translate(-634 -1606)">
+          <g id="Ellipse_20-11" data-name="Ellipse 20" transform="translate(634 1606)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip" clip-path="url(#clip-path)">
+            <g id="Shape_34" data-name="Shape 34">
+              <path id="Shape_34-2" data-name="Shape 34" d="M683,1627v-19H660v19c-4.373,3.5-8,9.761-8,15.717A17.77,17.77,0,0,0,659,1657v20h25v-20a17.775,17.775,0,0,0,7-14.283C691,1636.762,687.373,1630.5,683,1627Zm-.733,26.247a15.472,15.472,0,0,1-21.533,0,14.66,14.66,0,0,1,0-21.058,15.471,15.471,0,0,1,21.533,0,14.66,14.66,0,0,1,0,21.058ZM673,1641v-8h-3v11h14v-3Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay" data-name="Gradient Overlay" d="M683,1627v-19H660v19c-4.373,3.5-8,9.761-8,15.717A17.77,17.77,0,0,0,659,1657v20h25v-20a17.775,17.775,0,0,0,7-14.283C691,1636.762,687.373,1630.5,683,1627Zm-.733,26.247a15.472,15.472,0,0,1-21.533,0,14.66,14.66,0,0,1,0-21.058,15.471,15.471,0,0,1,21.533,0,14.66,14.66,0,0,1,0,21.058ZM673,1641v-8h-3v11h14v-3Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="icon2" transform="translate(985 1606)">
+        <g id="Ellipse_20-12" data-name="Ellipse 20" transform="translate(-985 -1606)">
+          <g id="Ellipse_20-13" data-name="Ellipse 20" transform="translate(985 1606)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip-2" data-name="Clip" clip-path="url(#clip-path-2)">
+            <g id="Shape_35" data-name="Shape 35">
+              <path id="Shape_35-2" data-name="Shape 35" d="M1034.117,1627.006h-24.244L1003,1636.8l19,26.2,19-26.2Zm-15.18,8.289,3.061-4.133,3.06,4.133Zm6.68,2.98L1022,1653.562l-3.619-15.288Zm-.817-8.289h5.808l-2.9,3.922Zm-8.506,3.922-2.906-3.919h5.808Zm-2.646,1.387h-5.991l2.916-4.152Zm1.714,2.98,3.708,15.666-11.359-15.666Zm13.273,0h7.642l-11.348,15.654Zm1.712-2.98,3.073-4.149,2.913,4.149Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay-2" data-name="Gradient Overlay" d="M1034.117,1627.006h-24.244L1003,1636.8l19,26.2,19-26.2Zm-15.18,8.289,3.061-4.133,3.06,4.133Zm6.68,2.98L1022,1653.562l-3.619-15.288Zm-.817-8.289h5.808l-2.9,3.922Zm-8.506,3.922-2.906-3.919h5.808Zm-2.646,1.387h-5.991l2.916-4.152Zm1.714,2.98,3.708,15.666-11.359-15.666Zm13.273,0h7.642l-11.348,15.654Zm1.712-2.98,3.073-4.149,2.913,4.149Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="icon3" transform="translate(1335 1606)">
+        <g id="Ellipse_20-14" data-name="Ellipse 20" transform="translate(-1335 -1606)">
+          <g id="Ellipse_20-15" data-name="Ellipse 20" transform="translate(1335 1606)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip-3" data-name="Clip" clip-path="url(#clip-path-3)">
+            <g id="Shape_36" data-name="Shape 36">
+              <path id="Shape_36-2" data-name="Shape 36" d="M1390,1642.027a2.269,2.269,0,0,0-2.3-2.238h-1.07l-3-9.283-.031-.073a5.65,5.65,0,0,0-2.145-2.446,5.883,5.883,0,0,0-3.144-.987H1365.34a5.887,5.887,0,0,0-3.144.987,5.658,5.658,0,0,0-2.144,2.446l-.033.074-3,9.281h-.725a2.269,2.269,0,0,0-2.3,2.238v10.044h2.18v2.878a3.134,3.134,0,0,0,6.265,0v-2.878h19v2.878a3.134,3.134,0,0,0,6.265,0v-2.878H1390Zm-5.421,1.075a2.529,2.529,0,1,1-2.595,2.528A2.563,2.563,0,0,1,1384.579,1643.1Zm-21.216-11.4a2.336,2.336,0,0,1,.807-.836,2.313,2.313,0,0,1,1.171-.406h12.972a2.306,2.306,0,0,1,1.172.406,2.337,2.337,0,0,1,.809.836l2.61,8.084h-22.154Zm-4.05,16.453a2.529,2.529,0,1,1,2.595-2.528A2.564,2.564,0,0,1,1359.313,1648.158Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay-3" data-name="Gradient Overlay" d="M1390,1642.027a2.269,2.269,0,0,0-2.3-2.238h-1.07l-3-9.283-.031-.073a5.65,5.65,0,0,0-2.145-2.446,5.883,5.883,0,0,0-3.144-.987H1365.34a5.887,5.887,0,0,0-3.144.987,5.658,5.658,0,0,0-2.144,2.446l-.033.074-3,9.281h-.725a2.269,2.269,0,0,0-2.3,2.238v10.044h2.18v2.878a3.134,3.134,0,0,0,6.265,0v-2.878h19v2.878a3.134,3.134,0,0,0,6.265,0v-2.878H1390Zm-5.421,1.075a2.529,2.529,0,1,1-2.595,2.528A2.563,2.563,0,0,1,1384.579,1643.1Zm-21.216-11.4a2.336,2.336,0,0,1,.807-.836,2.313,2.313,0,0,1,1.171-.406h12.972a2.306,2.306,0,0,1,1.172.406,2.337,2.337,0,0,1,.809.836l2.61,8.084h-22.154Zm-4.05,16.453a2.529,2.529,0,1,1,2.595-2.528A2.564,2.564,0,0,1,1359.313,1648.158Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="ROW2">
+      <g id="icon4" transform="translate(634 1907)">
+        <g id="Ellipse_20-16" data-name="Ellipse 20" transform="translate(-634 -1907)">
+          <g id="Ellipse_20-17" data-name="Ellipse 20" transform="translate(634 1907)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip-4" data-name="Clip" clip-path="url(#clip-path-4)">
+            <g id="Shape_37" data-name="Shape 37">
+              <path id="Shape_37-2" data-name="Shape 37" d="M694.819,1949.784a38.838,38.838,0,0,1-6.85,2.237l-.136-22.225c-3.845-1.713-9.547-2.8-15.908-2.8s-12.067,1.083-15.912,2.8v22.223a38.91,38.91,0,0,1-6.832-2.235L647,1954.567c6.282,2.783,15.12,4.421,25,4.433,9.878-.012,18.725-1.65,25-4.433Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay-4" data-name="Gradient Overlay" d="M694.819,1949.784a38.838,38.838,0,0,1-6.85,2.237l-.136-22.225c-3.845-1.713-9.547-2.8-15.908-2.8s-12.067,1.083-15.912,2.8v22.223a38.91,38.91,0,0,1-6.832-2.235L647,1954.567c6.282,2.783,15.12,4.421,25,4.433,9.878-.012,18.725-1.65,25-4.433Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="icon5" transform="translate(985 1907)">
+        <g id="Ellipse_20-18" data-name="Ellipse 20" transform="translate(-985 -1907)">
+          <g id="Ellipse_20-19" data-name="Ellipse 20" transform="translate(985 1907)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip-5" data-name="Clip" clip-path="url(#clip-path-5)">
+            <g id="Shape_35-3" data-name="Shape 35">
+              <path id="Shape_35-4" data-name="Shape 35" d="M1018,1956h-17v-22h17v22Zm-14-9v7h11v-7Zm0-10v6h11v-6Zm16,19v-13h10v-9h2v9h15v13h-27Zm18-9v7h6v-7Zm-1,0h-14v7h14v-7Zm-2-14H997v-1h38v1Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay-5" data-name="Gradient Overlay" d="M1047,1956h-27v-13h10v-9h2v9h15v13h0Zm-9-9v7h6v-7h-21v7h14v-7Zm-20,9h-17v-22h17v22h0Zm-14-13h11v-6h-11Zm-7-10v-1h38v1H997Z" opacity="0.96" fill="url(#linear-gradient-5)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="icon6" transform="translate(1335 1907)">
+        <g id="Ellipse_20-20" data-name="Ellipse 20" transform="translate(-1335 -1907)">
+          <g id="Ellipse_20-21" data-name="Ellipse 20" transform="translate(1335 1907)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip-6" data-name="Clip" clip-path="url(#clip-path-6)">
+            <g id="Shape_38" data-name="Shape 38">
+              <path id="Shape_38-2" data-name="Shape 38" d="M1376.467,1954.747c-.074-.333-.127-.662-.165-.971h-8.687a8.884,8.884,0,0,1-.459,1.976,4.153,4.153,0,0,1-1.056,1.667,2.684,2.684,0,0,1-1.871.682v.777h15.458v-.777a2.682,2.682,0,0,1-1.871-.682A5.056,5.056,0,0,1,1376.467,1954.747Zm12.6-27.35h-34.214a1.033,1.033,0,0,0-1.032,1.033v22.482a1.032,1.032,0,0,0,1.032,1.032h34.214a1.032,1.032,0,0,0,1.033-1.032V1928.43A1.033,1.033,0,0,0,1389.065,1927.4Zm-1.473,22.042h-31.268V1929.9h31.268Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay-6" data-name="Gradient Overlay" d="M1376.467,1954.747c-.074-.333-.127-.662-.165-.971h-8.687a8.884,8.884,0,0,1-.459,1.976,4.153,4.153,0,0,1-1.056,1.667,2.684,2.684,0,0,1-1.871.682v.777h15.458v-.777a2.682,2.682,0,0,1-1.871-.682A5.056,5.056,0,0,1,1376.467,1954.747Zm12.6-27.35h-34.214a1.033,1.033,0,0,0-1.032,1.033v22.482a1.032,1.032,0,0,0,1.032,1.032h34.214a1.032,1.032,0,0,0,1.033-1.032V1928.43A1.033,1.033,0,0,0,1389.065,1927.4Zm-1.473,22.042h-31.268V1929.9h31.268Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="ROW3">
+      <g id="icon7" transform="translate(634 2206)">
+        <g id="Ellipse_20-22" data-name="Ellipse 20" transform="translate(-634 -2206)">
+          <g id="Ellipse_20-23" data-name="Ellipse 20" transform="translate(634 2206)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip-7" data-name="Clip" clip-path="url(#clip-path-7)">
+            <g id="Shape_39" data-name="Shape 39">
+              <path id="Shape_39-2" data-name="Shape 39" d="M690.743,2250.186l-16.6-10.383c-.062-.04-.129-.077-.194-.113v-.927a7.611,7.611,0,1,0-10.212-7.189h4.9a2.86,2.86,0,1,1,2.859,2.79,2.5,2.5,0,0,0-1.733.7,2.374,2.374,0,0,0-.718,1.692v2.934c-.066.036-.131.073-.194.113l-16.6,10.383a4.727,4.727,0,0,0-2.059,5.372,4.9,4.9,0,0,0,4.7,3.442h33.2a4.889,4.889,0,0,0,4.7-3.442A4.726,4.726,0,0,0,690.743,2250.186Zm-35.841,4.026,16.6-10.382,16.6,10.382Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay-7" data-name="Gradient Overlay" d="M690.743,2250.186l-16.6-10.383c-.062-.04-.129-.077-.194-.113v-.927a7.611,7.611,0,1,0-10.212-7.189h4.9a2.86,2.86,0,1,1,2.859,2.79,2.5,2.5,0,0,0-1.733.7,2.374,2.374,0,0,0-.718,1.692v2.934c-.066.036-.131.073-.194.113l-16.6,10.383a4.727,4.727,0,0,0-2.059,5.372,4.9,4.9,0,0,0,4.7,3.442h33.2a4.889,4.889,0,0,0,4.7-3.442A4.726,4.726,0,0,0,690.743,2250.186Zm-35.841,4.026,16.6-10.382,16.6,10.382Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="icon8" transform="translate(985 2206)">
+        <g id="Ellipse_20-24" data-name="Ellipse 20" transform="translate(-985 -2206)">
+          <g id="Ellipse_20-25" data-name="Ellipse 20" transform="translate(985 2206)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip-8" data-name="Clip" clip-path="url(#clip-path-8)">
+            <g id="Shape_40" data-name="Shape 40">
+              <path id="Shape_40-2" data-name="Shape 40" d="M1036.532,2254.24a2.983,2.983,0,0,1-.6-1.468v-19.543a2.272,2.272,0,0,1,.6-1.252s1.467-1.118,1.467-2.3a3.08,3.08,0,0,0-3.23-2.905,4.061,4.061,0,0,0-1.9.628c-.263.174-.756.692-1.066.692h-3.1c-.309,0-.57-.519-.836-.692a5.528,5.528,0,0,0-2.5-.86h-.246a1.249,1.249,0,0,1-.895-.346,3.153,3.153,0,0,0-4.938.01,1.287,1.287,0,0,1-.945.336h-.279a5.525,5.525,0,0,0-2.494.86,4.3,4.3,0,0,1-1.323.692h-2.065c-.307,0-.8-.519-1.066-.692a4.059,4.059,0,0,0-1.9-.628,3.08,3.08,0,0,0-3.23,2.905c0,1.187,1.467,2.3,1.467,2.3a2.27,2.27,0,0,1,.6,1.252V2253.8c0,.333-.344.243-.6.44,0,0-1.467,1.119-1.467,2.306a3.08,3.08,0,0,0,3.23,2.9,4.149,4.149,0,0,0,2.116-.809c.255-.192.537-.727.846-.727h2.065c.309,0,.738.538.987.734a5.631,5.631,0,0,0,2.83,1.157,3.466,3.466,0,0,0,.616-.042,1.332,1.332,0,0,1,.994.262,3.175,3.175,0,0,0,4.5.08,1.434,1.434,0,0,1,.939-.3h.257a5.63,5.63,0,0,0,2.83-1.157,4.815,4.815,0,0,1,1.534-.734h2.064c.309,0,.592.535.844.727a4.163,4.163,0,0,0,2.119.809,3.08,3.08,0,0,0,3.23-2.9C1038,2255.359,1036.532,2254.24,1036.532,2254.24Zm-4.725-.44h-19.613v-21.6h19.613Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay-8" data-name="Gradient Overlay" d="M1036.532,2254.24a2.983,2.983,0,0,1-.6-1.468v-19.543a2.272,2.272,0,0,1,.6-1.252s1.467-1.118,1.467-2.3a3.08,3.08,0,0,0-3.23-2.905,4.061,4.061,0,0,0-1.9.628c-.263.174-.756.692-1.066.692h-3.1c-.309,0-.57-.519-.836-.692a5.528,5.528,0,0,0-2.5-.86h-.246a1.249,1.249,0,0,1-.895-.346,3.153,3.153,0,0,0-4.938.01,1.287,1.287,0,0,1-.945.336h-.279a5.525,5.525,0,0,0-2.494.86,4.3,4.3,0,0,1-1.323.692h-2.065c-.307,0-.8-.519-1.066-.692a4.059,4.059,0,0,0-1.9-.628,3.08,3.08,0,0,0-3.23,2.905c0,1.187,1.467,2.3,1.467,2.3a2.27,2.27,0,0,1,.6,1.252V2253.8c0,.333-.344.243-.6.44,0,0-1.467,1.119-1.467,2.306a3.08,3.08,0,0,0,3.23,2.9,4.149,4.149,0,0,0,2.116-.809c.255-.192.537-.727.846-.727h2.065c.309,0,.738.538.987.734a5.631,5.631,0,0,0,2.83,1.157,3.466,3.466,0,0,0,.616-.042,1.332,1.332,0,0,1,.994.262,3.175,3.175,0,0,0,4.5.08,1.434,1.434,0,0,1,.939-.3h.257a5.63,5.63,0,0,0,2.83-1.157,4.815,4.815,0,0,1,1.534-.734h2.064c.309,0,.592.535.844.727a4.163,4.163,0,0,0,2.119.809,3.08,3.08,0,0,0,3.23-2.9C1038,2255.359,1036.532,2254.24,1036.532,2254.24Zm-4.725-.44h-19.613v-21.6h19.613Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="icon9" transform="translate(1335 2206)">
+        <g id="Ellipse_20-26" data-name="Ellipse 20" transform="translate(-1335 -2206)">
+          <g id="Ellipse_20-27" data-name="Ellipse 20" transform="translate(1335 2206)" fill="#1c242a" stroke="#707070" stroke-linejoin="round" stroke-width="3">
+            <ellipse cx="37.5" cy="36.57" rx="37.5" ry="36.57" stroke="none"/>
+            <ellipse cx="37.5" cy="36.57" rx="36" ry="35.07" fill="none"/>
+          </g>
+          <g id="Clip-9" data-name="Clip" clip-path="url(#clip-path-9)">
+            <g id="Shape_41" data-name="Shape 41">
+              <path id="Shape_41-2" data-name="Shape 41" d="M1373.062,2253.527v-9.739a9.209,9.209,0,0,0,7.938-9.231,14.113,14.113,0,0,0-1.093-5.487l-.564-1.071h-14.685l-.566,1.071a14.15,14.15,0,0,0-1.091,5.487,9.2,9.2,0,0,0,8.072,9.248v9.721c-3.642.115-6.451.845-6.451,1.729,0,.963,3.335,1.744,7.447,1.744s7.443-.781,7.443-1.744C1379.511,2254.372,1376.7,2253.642,1373.062,2253.527Z" fill="#bb9c66"/>
+              <path id="Gradient_Overlay-9" data-name="Gradient Overlay" d="M1373.062,2253.527v-9.739a9.209,9.209,0,0,0,7.938-9.231,14.113,14.113,0,0,0-1.093-5.487l-.564-1.071h-14.685l-.566,1.071a14.15,14.15,0,0,0-1.091,5.487,9.2,9.2,0,0,0,8.072,9.248v9.721c-3.642.115-6.451.845-6.451,1.729,0,.963,3.335,1.744,7.447,1.744s7.443-.781,7.443-1.744C1379.511,2254.372,1376.7,2253.642,1373.062,2253.527Z" opacity="0.96" fill="url(#linear-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
